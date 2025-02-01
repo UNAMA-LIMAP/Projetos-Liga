@@ -8,4 +8,9 @@ git clone https://github.com/UNAMA-LIMAP/Projetos-Liga.git
 
 # Criar uma Branch
 
-git checkout -b insira-um-nome(git checkout -b projeto-aluno1)
+git checkout -b insira-um-nome
+exemplo: git checkout -b projeto-aluno1
+
+# Fazer Commits
+git add .
+git commit -m "Projeto de: "nome" "
